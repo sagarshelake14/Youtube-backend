@@ -1,0 +1,17 @@
+{
+  "name": "youtube-project-backend",
+  "version": "1.0.0",
+  "description": "a backend at code with me",
+  "keywords": [
+    "javascript",
+    "backend",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "sagar shelake",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
